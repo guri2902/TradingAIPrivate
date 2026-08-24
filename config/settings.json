@@ -1,0 +1,14 @@
+{
+    "start_page": "Dashboard",
+    "auto_refresh": 30,
+    "dark_interface": false,
+    "default_index": "NIFTY 50",
+    "option_expiry": "Nearest Expiry",
+    "minimum_confidence": 70,
+    "minimum_probability": 70,
+    "enable_ai_recommendations": true,
+    "trading_capital": 22000.0,
+    "risk_per_trade": 1.0,
+    "daily_loss_limit": 1200.0,
+    "daily_profit_target": 700.0
+}

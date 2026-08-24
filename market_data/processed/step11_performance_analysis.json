@@ -1,0 +1,97 @@
+{
+  "source_report": "C:\\backup\\Backup 17 aug 1851\\TradingAI\\market_data\\processed\\step10_walk_forward_report.json",
+  "persistent_history": {
+    "available": true,
+    "rows": 30,
+    "resolved": 4,
+    "wins": 0,
+    "losses": 4,
+    "win_rate": 0.0,
+    "average_r": -0.3954
+  },
+  "prediction_tracker": {
+    "available": true,
+    "prediction_records": 2,
+    "pending_records": 0,
+    "resolved_records": 2,
+    "direction_accuracy": 1.0,
+    "average_actual_return": -0.015267175572519083
+  },
+  "total_candidates": 30,
+  "resolved": 4,
+  "pending_or_unresolved": 26,
+  "overall_win_rate": 0.0,
+  "overall_average_r": -0.3954,
+  "outcomes": {
+    "END_OF_DATA": 21,
+    "STOP_LOSS": 4,
+    "OPEN": 5
+  },
+  "probability_range": {
+    "min": 62.0,
+    "max": 65.0,
+    "mean": 63.6
+  },
+  "score_analysis": {
+    "60-69": {
+      "count": 18,
+      "resolved": 4,
+      "win_rate": 0.0,
+      "average_r": -0.4062
+    },
+    "70-79": {
+      "count": 12,
+      "resolved": 0,
+      "win_rate": 0.0,
+      "average_r": -0.3791
+    }
+  },
+  "probability_analysis": {
+    "60-64": {
+      "count": 18,
+      "resolved": 4,
+      "win_rate": 0.0,
+      "average_r": -0.4062
+    },
+    "65-69": {
+      "count": 12,
+      "resolved": 0,
+      "win_rate": 0.0,
+      "average_r": -0.3791
+    }
+  },
+  "option_type_analysis": {
+    "CE": {
+      "count": 30,
+      "resolved": 4,
+      "win_rate": 0.0,
+      "average_r": -0.3954
+    }
+  },
+  "rr_analysis": {
+    "2.5+": {
+      "count": 30,
+      "resolved": 4,
+      "win_rate": 0.0,
+      "average_r": -0.3954
+    }
+  },
+  "findings": [
+    {
+      "type": "INSUFFICIENT_RESOLVED_DATA",
+      "message": "Fewer than 30 resolved trades are available. Do not modify score or probability rules from this sample."
+    },
+    {
+      "type": "LOW_PROBABILITY_VARIATION",
+      "message": "Predicted probabilities have a narrow range. Calibration quality cannot be judged from score alone."
+    },
+    {
+      "type": "BEST_RESOLVED_SCORE_BUCKET",
+      "bucket": "60-69",
+      "average_r": -0.4062,
+      "count": 18,
+      "resolved": 4
+    }
+  ],
+  "recommendation": "MEASURE_MORE"
+}

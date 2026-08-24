@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2026-08-11",
+        "instrument": "24500ce",
+        "type": "CE",
+        "entry": 125.0,
+        "exit": 140.0,
+        "quantity": 25,
+        "pnl": 375.0,
+        "result": "WIN",
+        "ai_score": 0,
+        "confidence": 0
+    },
+    {
+        "date": "2026-08-11",
+        "instrument": "24500PE",
+        "type": "PE",
+        "entry": 64.0,
+        "exit": 80.0,
+        "quantity": 65,
+        "pnl": 1040.0,
+        "result": "WIN",
+        "ai_score": 77,
+        "confidence": 70
+    }
+]
