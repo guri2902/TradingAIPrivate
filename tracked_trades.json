@@ -170,8 +170,8 @@
         "type": "PE",
         "entry": 53.9,
         "fixed_entry": 53.9,
-        "ltp": 54.05,
-        "last_checked_ltp": 54.05,
+        "ltp": 66.2,
+        "last_checked_ltp": 66.2,
         "tracking_started_ltp": 54.8,
         "sl": 45.81,
         "fixed_sl": 45.81,
@@ -181,15 +181,15 @@
         "fixed_target2": 75.46,
         "ai_score": 82.2,
         "probability": 67.0,
-        "status": "LIVE",
+        "status": "TARGET 1 HIT",
         "started_at": "2026-08-24T14:39:24",
-        "ended_at": null,
+        "ended_at": "2026-08-24T16:08:22",
         "capital_required_1_lot": 3503.5,
         "quantity": 65,
         "lot_size": 65,
-        "pnl_per_point": 0.14999999999999858,
-        "total_pnl": 9.749999999999908,
-        "updated": "15:32:27.085"
+        "pnl_per_point": 12.300000000000004,
+        "total_pnl": 799.5000000000002,
+        "updated": "16:08:22.376"
     },
     {
         "track_id": "20260824145651399189_cd248354",
@@ -200,8 +200,8 @@
         "type": "PE",
         "entry": 55.65,
         "fixed_entry": 55.65,
-        "ltp": 54.05,
-        "last_checked_ltp": 54.05,
+        "ltp": 66.2,
+        "last_checked_ltp": 66.2,
         "tracking_started_ltp": 55.65,
         "sl": 47.3,
         "fixed_sl": 47.3,
@@ -217,8 +217,8 @@
         "capital_required_1_lot": 3617.25,
         "quantity": 65,
         "lot_size": 65,
-        "pnl_per_point": -1.6000000000000014,
-        "total_pnl": -104.00000000000009,
-        "updated": "15:32:27.093"
+        "pnl_per_point": 10.550000000000004,
+        "total_pnl": 685.7500000000002,
+        "updated": "17:08:05.580"
     }
 ]
